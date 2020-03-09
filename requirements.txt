@@ -4,10 +4,10 @@ django-bootstrap3==11.0.0
 django-revproxy
 django-tables2<1.17
 django-dbbackup<3.0
-gitdb
+gitdb<4.0
 GitPython
 psutil
-Pygments
+Pygments<2
 pytz
 PyYAML
 requests
@@ -17,7 +17,7 @@ urllib3
 ipy
 elasticsearch<7
 django-ipware
-gunicorn
+gunicorn<20.0
 djangorestframework<3.9.2
 markdown<3.0
 django-filter<2.0
